@@ -1,0 +1,9 @@
+README.rst
+setup.py
+scikit_learn_stub.egg-info/PKG-INFO
+scikit_learn_stub.egg-info/SOURCES.txt
+scikit_learn_stub.egg-info/dependency_links.txt
+scikit_learn_stub.egg-info/requires.txt
+scikit_learn_stub.egg-info/top_level.txt
+sklstub/__init__.py
+sklstub/stub.py
