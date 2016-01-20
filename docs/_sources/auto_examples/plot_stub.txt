@@ -22,6 +22,6 @@ An example plot of StubEstimator
 .. literalinclude:: plot_stub.py
     :lines: 8-
 
-**Total running time of the example:**  2.00 seconds
-( 0 minutes  2.00 seconds)
+**Total running time of the example:**  3.55 seconds
+( 0 minutes  3.55 seconds)
     
